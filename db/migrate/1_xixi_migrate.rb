@@ -1,4 +1,4 @@
-class CreateXiXi < ActiveRecord::Migration[5.0]
+class CreateXiXi < ActiveRecord::Migration
   def change
     create_table :xixi do |t|
 
